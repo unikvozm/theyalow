@@ -1,0 +1,17 @@
+{
+  "name": "theyalow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csscomb": "^4.3.0",
+    "htmlhint": "^0.11.0",
+    "stylelint": "^11.0.0",
+    "stylelint-config-htmlacademy": "^0.1.4"
+  }
+}
